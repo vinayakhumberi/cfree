@@ -1,0 +1,25 @@
+{
+  "101": {
+    "id": 101,
+    "timestamp": "Tue, 19 May 2020 07:28:52 GMT",
+    "comment": "Its going to rain today",
+    "userID": "1",
+    "replies": [
+      102
+    ]
+  },
+  "201": {
+    "id": 201,
+    "timestamp": "Tue, 19 May 2020 07:28:52 GMT",
+    "comment": "Let's go for a movie!",
+    "userID": "3",
+    "replies": []
+  },
+  "102": {
+    "id": 102,
+    "timestamp": "Tue, 19 May 2020 07:28:52 GMT",
+    "comment": "Looks sunny outside the office",
+    "userID": "2",
+    "replies": []
+  }
+}

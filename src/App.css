@@ -1,5 +1,9 @@
+
 .App {
-  text-align: center;
+  margin: auto;
+  padding: 30px;
+  width: 450px;
+  background-color: #fff;
 }
 
 .App-logo {
@@ -35,4 +39,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.comment-chip {
+  margin-left: 25px;
+  border-left: 1px solid #eee;
+}
+.comment-chip.no-pad {
+  margin-left: 0px;
+  border-left: none;
+}
+.comment-section {
+  margin: 30px 0;
 }
